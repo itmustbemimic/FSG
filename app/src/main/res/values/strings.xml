@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FSG</string>
+    <string name="action_home">home</string>
 </resources>
